@@ -22,6 +22,7 @@ limitations under the License.
 
 namespace tensorflow {
 
+static constexpr const char* ANONYMOUS_NAME;
 // Resource stored by variables in the resource manager (new, resource-style
 // version).
 //
